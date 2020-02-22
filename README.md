@@ -1,5 +1,5 @@
 # bin2asm
-Converts binary files to ARM compatible assembly files
+Converts binary files to ASM compatible assembly files
 
 Usage:
-$ bin2asm hello.bin > hello.s
+$ bin2asm hello.bin > hello.asm
